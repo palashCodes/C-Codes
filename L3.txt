@@ -1,0 +1,66 @@
+selection Loop
+1)if   
+Syntax:
+	if(condition)
+	{
+	
+	}
+2)if-->else 
+Syntax:
+if(condition)
+{
+statements
+}
+else
+{
+Statements
+}
+3)if-->else if-->else if.....-->else
+Syntax:
+if(condition1)
+{
+Statements
+}
+else if(condition2)
+{
+Statements
+}
+..
+
+else
+{
+statements
+}
+
+4)switch case
+Syntax:
+
+switch(choice)
+{
+case 1:
+Statements 
+break;
+case 2: break;
+.
+.
+.
+default:
+statements;
+break;
+}
+5)Ternary operator
+
+(condition)?(True):(else)
+
+Relational Operator
+<
+>
+<=
+>=
+<> or !=
+== equals check operator
+ 
+Logical Operator
+AND-&&
+OR -||
+Not-!

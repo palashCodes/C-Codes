@@ -1,0 +1,8 @@
+WAP to calculate area and perimeter of square(done)
+WAP to calculate area and perimeter of Circle(done)
+C++ Program to Find and Print Factors of a Number(done)
+
+C++ Program to Find and Print the Sum of First n Natural Numbers
+
+C++ program to calculate the price after applying the discount
+C++ program to find the factorial of a number
