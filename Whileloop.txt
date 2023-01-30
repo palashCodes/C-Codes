@@ -1,9 +1,0 @@
-while
-Loop-->iteration
-
-initialization;
-while(condition)//Boolean
-{
-
-inc/dec operator
-}
